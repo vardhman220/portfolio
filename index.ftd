@@ -23,8 +23,7 @@ logoURL: /YOUR_REPOSITORY_NAME
 header-item1: Home
 header-item2: About
 header-item3: Blogs
-header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
+header-item1-link: /your_PORTFOLIO_NAME
 header-item2-link: /YOUR_REPOSITORY_NAME/about
 header-item3-link: /YOUR_REPOSITORY_NAME/blogs
 header-item4-link: /YOUR_REPOSITORY_NAME/projects
@@ -69,7 +68,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Vardhman,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -108,7 +107,8 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/
+
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
